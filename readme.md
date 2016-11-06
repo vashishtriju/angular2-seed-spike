@@ -6,7 +6,7 @@ Type npm install
 
 Type npm start
 
-If you gulp related errors run the following
+If you get gulp related errors run the following
 sudo npm install -g --save-dev gulp gulp-sass
 
 This will add packages globally.
